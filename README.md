@@ -84,9 +84,13 @@ SoftSell is a platform that helps businesses sell unused software licenses quick
 ## 🔗 Deployment
 
 **Hosted on Vercel**  
-👉 [Live Link](https://your-project-link.vercel.app)
+👉 [Live Link](https://soft-sell-iota.vercel.app)
 
 ---
 
+## 📬 Contact
+
+Developed by **Mansi Verma**  
+[GitHub](https://github.com/Mansiverma30)
 
 
